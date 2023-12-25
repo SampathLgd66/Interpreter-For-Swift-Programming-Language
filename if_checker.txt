@@ -1,0 +1,9 @@
+var x = 12;
+ var y = 10; 
+if(x<y){
+print(x);
+}
+ else
+ {
+ print(y);
+}
